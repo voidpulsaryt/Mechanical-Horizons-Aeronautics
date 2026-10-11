@@ -1,0 +1,5 @@
+# Aeroworks: the Helmwrights, who built every ship's bridge. Story beats only; see STORY.md. Format: QUEST_ID|lore line
+110ECA0EC95029E6|The Helmwrights built the bridge of every Guild ship, including the great bridge of the Aerie itself: forty control desks joined into one deck, facing the sky.
+74B9BA10EBDCAF89|The Aerie had gyroscopes the size of houses in its keel. They had to be re-trued every month for the last eleven years. Nobody asked why the city had started to wobble.
+6798E2C1C2A242D5|I stood at the third desk from the left, the navigator's desk. Rook stood behind me. Director Vess stood at the throttles. Cantor Marr stood in the doorway, because the Guildmaster had told her she could not come in.
+2A5F1CF43B2A25B1|On the night of the Overclock, Director Vess pushed every throttle quadrant on the bridge to its stop, on the Guildmaster's order. I watched her hand. It did not shake.

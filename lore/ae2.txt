@@ -1,0 +1,7 @@
+# Applied Energistics 2: the Vaultkeepers, under Archivist Senna Quell. Story beats only; see STORY.md. Format: QUEST_ID|lore line
+302779FFD5F13891|The Vaultkeepers stored matter as pattern in the Vault, the Aerie's great memory. Their creed: you only truly own a thing once you can forget where you put it. Archivist Senna Quell kept a second creed of her own: never forget anything that matters.
+56C393E41CD8B3BD|Certus grows wherever the Vault fell. Senna used to say it was the Vault trying to rebuild itself. Every crystal you grow is a little of the old Aerie remembering.
+39CE9D4413EC1621|At the heart of every fallen shard is a cube. Senna Quell sealed the Vault's records in them on the last night, after she read the Engine logs the Guildmaster had buried. Whatever else you find in the craters, keep these.
+7B1F8B964612BFD5|The presses you find in the craters were the Vault's own. Some are etched with Senna's private shorthand in the margins: dates, readings and one word repeated on every plate. Failing.
+2C860AA192FF0116|This was the Vaultkeeper master's terminal: every function of the Vault in one device. Senna carried one. If she survived the Grounding, she has never used it to reach out. Or she has, and nobody was listening.
+37CA40F69A0285C4|A spatial cell stores a whole place, not just a thing. The Vaultkeepers archived the rooms they loved so they could visit them again. Senna archived the Engine room the morning of the Overclock. The cell has never been found.

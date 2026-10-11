@@ -1,0 +1,8 @@
+# Powah: the Conduit Choir, under Cantor Liesl Marr. Story beats only; see STORY.md. Format: QUEST_ID|lore line
+2DB25CF289FAAF6C|This is the Choir's hymnal: every crystal, every voice of current. Cantor Liesl Marr's copy has the same note written in the margin of every page for eleven years: flat again.
+1E6756594847F70D|The first time you energize something, listen. There is a hum just under hearing. The Choir could tell from that hum alone whether a machine was healthy. Liesl could tell from across the city.
+597C4A2C39E7D8FB|The bass section: the foundation note everything else is built on. Liesl said the Engine's bass note had been sagging for years, like a bridge with a bad pillar.
+6185B8080800BA40|Every reactor the Choir built, they sang to at night to keep it calm. People laughed. The reactors never once misbehaved.
+157E2E320FABF1CC|Nitro crystals sing so high only the Choir masters can hear them. Liesl filed a report every season saying the Engine's Nitro voice was failing. Every report reached the Guildmaster. None of them were ever answered.
+2090C7FA0A352D0E|The highest voice in the Choir, and the one that carried the Horizon Engine. On the night of the Overclock, Liesl stood in the doorway of the bridge and begged Rook to listen to it. He did not.
+77EA98920E57EB27|The Choir says that in the last eleven seconds, every Nitro reactor on the Aerie hit a note nobody had ever heard before. Then all of them went silent at once. Liesl was the only one who knew what the note meant.

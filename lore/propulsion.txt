@@ -1,0 +1,5 @@
+# Create Propulsion: the Thrust Guild. Story beats only; see STORY.md. Format: QUEST_ID|lore line
+55DBEABEF5174219|The Thrust Guild broke from the Windwrights over one question: why float when you can fly? Everyone thought them reckless. On the night of the Grounding, they were the only ships fast enough to catch people falling.
+6A891A299CB4627F|A thruster does not ask the wind for permission. Light it, point it and hold on to something.
+340E8841095673AD|The ion thrusters ran on the Conduit Choir's current, tuned by Cantor Marr herself. She said they were the only machines on the Aerie that still sang in key.
+128AA441B49ADCA8|A ship that can aim its thrust can climb where wind and lift give out. Remember that when you start wondering how high a ship can go. You will need it.
