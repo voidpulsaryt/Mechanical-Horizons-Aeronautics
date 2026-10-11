@@ -1,9 +1,0 @@
-# Modern Industrialization: the Consortium, under Director Imra Vess. Story beats only; see STORY.md. Format: QUEST_ID|lore line
-6678D1BD61B3D589|The Consortium handbook. Chapter one is titled Throughput, chapter two is titled More Throughput, and the foreword is signed by Director Imra Vess. The Consortium fed the Horizon Engine, and it never let anyone forget who paid for the fuel.
-45D0C73C31EE09F5|Steel is where the Consortium stopped being a workshop and became an empire. Your ledger starts here. So did theirs.
-5AEC3DBF64F32212|A machine that builds machines. After the Consortium built its first assembler, the ledger only ever went up. Or it did, until eleven years before the end.
-0BB7765E3190C88A|Consortium ledger, final years: fuel delivered to the Engine up by a third, output down by a fifth. Vess circled the figures in red and sent them to the Guildmaster. She was the only one who wrote down the truth, and the first to profit from hiding it.
-15EB55A74D9E45FF|The Consortium built eleven quantum hulls for the Horizon Engine. Ten were installed. The eleventh vanished on the night of the Overclock. The ledger lists it as lost. It is not lost. I know exactly where it is.
-742F950FFFDE819F|The Quantum Upgrade runs a machine past every safe limit. On the night of the Overclock, Director Vess installed one on the Horizon Engine with her own hands, on Rook's order and at her own expense. She called it an investment.
-3347297D306113E2|The Consortium made a singularity on purpose and entered it in the ledger as stock. That is what the Horizon Engine was built around. Make yours, and you will understand both why the Guild flew and why it fell.
-121F07DA327BC0E6|Director Vess walked out of the wreckage of the Aerie in a full set of quantum armor without a scratch. She has run the Consortium's ground works ever since, and she has never once spoken about that night.

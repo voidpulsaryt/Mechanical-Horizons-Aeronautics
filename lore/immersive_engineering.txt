@@ -1,7 +1,0 @@
-# Immersive Engineering: the Foundry, under Foreman Bram Holt. Story beats only; see STORY.md. Format: QUEST_ID|lore line
-1C032D0D0A89C70E|Foreman Bram Holt never set foot on the Aerie. He said a city that needs a miracle to stay up is a city waiting to come down. The Foundry stayed on the ground and made steel for the rest of us. This is his manual. The margins are full of his opinions.
-64BF887B8D1A5C49|The Foundry Oath begins at the coke oven: turn coal into something better, and waste nothing, not even the smoke.
-3E00000000000027|High voltage ran up the mooring towers to the Aerie on Foundry cable. On the night of the Overclock, Bram Holt felt the surge coming down the line and cut every tower with an axe. The ground towns kept their lights. He never said a word about it.
-6AB8AFB1EC34E2FF|A month before the Overclock, a refit order came down from the Guildmaster for the Engine's cage. Bram read it at this workbench, said the numbers were a death sentence and refused to sign. Rook found another foundry.
-5AF03A768711B278|The arc furnace was the Foundry's crowning work: lightning held in a box and used to melt anything. Bram called it his answer to the Aerie. Proof you can do great things without leaving the ground.
-20A46CA1B63C7C97|After the Grounding, scavengers came for the Foundry yards. Bram met them with tesla coils. They did not come back. The survivors he took in did not have to worry about that again.

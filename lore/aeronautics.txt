@@ -1,8 +1,0 @@
-# Create Aeronautics: the Windwrights. Story beats only; see STORY.md. Format: QUEST_ID|lore line
-6142979F2E5E54E5|The Wind Charter has one line: Anything properly built may leave the ground. Every Windwright swore by it. Guildmaster Halvard Rook swore by it louder than anyone. He was the finest pilot the Aerie ever had, before he was its Guildmaster.
-500FA9792456C013|Rook built his first ship with an assembler like this one and a hull so ugly the Windwrights refused to name it. It outflew every ship in the fleet. He never let anyone forget it.
-4C8DDA689FE8369D|Levitite wants to rise the way water wants to fall. The Aerie's foundations were poured from it in the old foundry islands we called the pouring yards. Some of those yards are still floating up there.
-58E158C8F2C04BEB|Solid levitite is a stone that refuses to fall. Hold some and it feels like it wants to take you somewhere. Pilots who fly high over the old pouring yards swear they have seen a light up there at night. They are not imagining it.
-38EC378844976A93|Every Windwright wore goggles like these. The left lens of mine cracked on the night of the Overclock. I still wear them. I have not had much opportunity to go shopping.
-7157002074776C07|Rook's chart had a line drawn across it in red ink, far above any altitude a ship had reached. He called it the horizon line. I did not ask what it meant until it was too late to say no.
-0E78B1230C3C72FF|Push it forward slowly, the Windwrights taught. Nobody ever crashed an airship by being too gentle. Somebody should have told the bridge crew that, on the last night.

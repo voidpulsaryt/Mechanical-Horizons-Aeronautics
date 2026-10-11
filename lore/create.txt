@@ -1,9 +1,0 @@
-# Create: the Cogwrights, under Master Tobin Fell. Story beats only; see STORY.md. Format: QUEST_ID|lore line
-7703F0CA1A8AB6F9|Master Tobin Fell taught me my first lesson with a lump of andesite and a single iron nugget. Bind the humble to the proud, he said, and you get something that will actually do the work. Start where I started, apprentice.
-4266BF7FCE3B4330|Large to small to go fast, small to large to go strong. Tobin made us recite it every morning. Everything the Guild ever built, the Horizon Engine included, was just a longer version of that sentence.
-3A2633B6030BBC52|Tobin could hear stress in a machine without the goggles. Years before anyone else, he started saying the Engine sounded wrong. The Guild gave him a medal and stopped inviting him to meetings.
-6A84FC7CC5304E10|Brass is the Cogwrights' metal. The whole Aerie gleamed with it at sunset. You will be making a great deal of it. So did we.
-177C0E37A35A14F4|The Guild clock tower kept time for the whole sky. When the Aerie fell, its hands froze at eleven seconds past the hour. Remember that number. It comes up again.
-147FC2959F9FC5F5|Tobin left the Aerie a year before the Overclock and went down to the ground rail towns. He said he would rather ride a train than stand on a city that hums off key. He was the only one of us who listened to himself.
-6D03D3B4D83C1840|The great crafters built what no single pair of hands could. Tobin built the first one on the Aerie to prove a point to the Consortium. The Consortium bought forty and never thanked him.
-62D91C2154F462E3|This is where turning becomes current, where the Cogwrights' craft meets the Conduit Choir's. Tobin and Cantor Liesl Marr argued about who should get the credit for thirty years. They were best friends.
